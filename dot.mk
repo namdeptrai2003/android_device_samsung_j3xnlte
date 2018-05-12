@@ -13,3 +13,7 @@ PRODUCT_NAME := dot_j3xnlte
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-J320FN
 PRODUCT_MANUFACTURER := samsung
+
+# Magisk
+WITH_MAGISK := true
+ROOT_METHOD := magisk
